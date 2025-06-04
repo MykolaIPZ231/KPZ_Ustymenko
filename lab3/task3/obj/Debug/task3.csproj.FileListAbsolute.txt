@@ -1,7 +1,0 @@
-C:\Users\mykol\OneDrive\Робочий стіл\kpz\KPZ_Ustymenko\lab3\task3\bin\Debug\task3.exe.config
-C:\Users\mykol\OneDrive\Робочий стіл\kpz\KPZ_Ustymenko\lab3\task3\bin\Debug\task3.exe
-C:\Users\mykol\OneDrive\Робочий стіл\kpz\KPZ_Ustymenko\lab3\task3\bin\Debug\task3.pdb
-C:\Users\mykol\OneDrive\Робочий стіл\kpz\KPZ_Ustymenko\lab3\task3\obj\Debug\task3.csproj.AssemblyReference.cache
-C:\Users\mykol\OneDrive\Робочий стіл\kpz\KPZ_Ustymenko\lab3\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
-C:\Users\mykol\OneDrive\Робочий стіл\kpz\KPZ_Ustymenko\lab3\task3\obj\Debug\task3.exe
-C:\Users\mykol\OneDrive\Робочий стіл\kpz\KPZ_Ustymenko\lab3\task3\obj\Debug\task3.pdb
