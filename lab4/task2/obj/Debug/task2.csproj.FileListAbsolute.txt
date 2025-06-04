@@ -1,0 +1,7 @@
+C:\Users\mykol\OneDrive\Робочий стіл\kpz\KPZ_Ustymenko\lab4\task2\bin\Debug\task2.exe.config
+C:\Users\mykol\OneDrive\Робочий стіл\kpz\KPZ_Ustymenko\lab4\task2\bin\Debug\task2.exe
+C:\Users\mykol\OneDrive\Робочий стіл\kpz\KPZ_Ustymenko\lab4\task2\bin\Debug\task2.pdb
+C:\Users\mykol\OneDrive\Робочий стіл\kpz\KPZ_Ustymenko\lab4\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+C:\Users\mykol\OneDrive\Робочий стіл\kpz\KPZ_Ustymenko\lab4\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\mykol\OneDrive\Робочий стіл\kpz\KPZ_Ustymenko\lab4\task2\obj\Debug\task2.exe
+C:\Users\mykol\OneDrive\Робочий стіл\kpz\KPZ_Ustymenko\lab4\task2\obj\Debug\task2.pdb
